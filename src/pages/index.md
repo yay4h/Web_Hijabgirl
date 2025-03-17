@@ -1,50 +1,61 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Hijab Girl
+image: /img/jab.png
+heading: Keindahan dalam Balutan Hijab Syar'i
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Assalamualaikum, Sahabat HIJAB GIRL 
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+   Hijab sifon terbuat dari kain sifon berkualitas tinggi, ringan dan sejuk yang akan melengkapi busana kasual dan busana malam Anda dengan sempurna. Kain sifon sedikit transparan dan memiliki hasil akhir matte. Hijab sifon mudah dirawat dan anti kusut.
+    
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  ✨ "Hijab Cantik, Percaya Diri Meningkat" 
+  Pilihan terbaik untuk tampil elegan setiap hari.
+  Hijab yang Menyatu dengan Gaya Hidup Aktif
+  Aktivitas seharian bukan lagi hambatan untuk tetap tampil stylish. 
+  Hijab ini didesain ringan dan breathable, memastikan kamu tetap segar dan percaya diri 
+  sepanjang hari. Dari acara formal hingga santai, koleksi kami hadir untuk menemani setiap langkahmu.
+subdescription: 
+  ✨ "Hijab Cantik, Percaya Diri Meningkat" 
+  Pilihan terbaik untuk tampil elegan setiap hari.
+  Hijab yang Menyatu dengan Gaya Hidup Aktif
+  Aktivitas seharian bukan lagi hambatan untuk tetap tampil stylish. 
+  Hijab ini didesain ringan dan breathable, memastikan kamu tetap segar dan percaya diri 
+  sepanjang hari. Dari acara formal hingga santai, koleksi kami hadir untuk menemani setiap langkahmu.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/modelhijab1o.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        💖 "Syari, Modis, dan Nyaman" Hijab yang melengkapi keindahanmu.
+         Keindahan yang Syar'i dan Modis
+        Tidak perlu memilih antara syar'i dan fashionable—kamu bisa mendapatkan keduanya! 
+        Dengan cutting yang pas dan bahan berkualitas tinggi, hijab ini memberikan kesan anggun 
+        sekaligus mengikuti tren modern. Kini, tampil sopan dan menawan jadi lebih mudah.
+
+    - image: /img/duamodelu4.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+       🌸 "Ringan, Adem, dan Mudah Dibentuk" 
+       Hijab yang siap menemani aktivitasmu.
+        Warna-Warni Hijab untuk Setiap Momen
+        Ekspresikan kepribadianmu dengan hijab yang sesuai dengan mood dan occasion!
+        Dari warna pastel yang lembut hingga warna bold yang penuh karakter, pilihannya beragam untuk melengkapi outfit favoritmu. Jadikan hijab sebagai bagian dari cerita indah perjalanan hidupmu.
+    - image: /img/empatwarna.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        🌿  "Tampil Anggun, Tetap Nyaman" 
+        Hijab stylish dengan kenyamanan maksimal!
+        Tampilan Anggun dengan Hijab Nyaman Setiap perempuan berhak merasa percaya diri
+        dan nyaman dalam balutan hijab yang indah. Koleksi hijab kami dirancan khusus 
+        dengan bahan premium yang lembut, adem, dan mudah dibentuk.
+        Dengan berbagai pilihan warna dan desain, kamu bisa tampil elegan tanpa 
+        mengorbankan kenyamanan.
+    - image: /img/macamhijab.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        🛍️ "Warna-Warni Hijab untuk Setiap Momen" 
+         Koleksi hijab yang siap menyempurnakan gaya harianmu.
+         Warna-Warni Hijab untuk Setiap Momen
+        Ekspresikan kepribadianmu dengan hijab yang sesuai dengan mood dan occasion! Dari warna pastel yang lembut hingga warna bold yang penuh karakter, pilihannya beragam untuk melengkapi outfit favoritmu. Jadikan hijab sebagai bagian dari cerita indah perjalanan hidupmu.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
