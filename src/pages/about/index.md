@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: "about-page"
+title: "Tentang Hijab Girl"
+description: "Hijab Girl menghadirkan hijab berkualitas dengan desain modern dan ramah lingkungan."
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 🌿 Kesederhanaan dan Elegansi
+Hijab bukan hanya sekadar penutup kepala, tetapi juga simbol identitas, kepercayaan, dan gaya hidup. Dengan desain yang elegan dan modern, Hijab Girl menghadirkan koleksi hijab yang nyaman dan stylish untuk segala aktivitas.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Beragam Pilihan
+Kami menyediakan berbagai pilihan hijab dari bahan berkualitas tinggi, mulai dari voal, satin, hingga pashmina. Setiap produk dirancang untuk memberikan kenyamanan maksimal dan tampilan yang anggun dalam berbagai kesempatan.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 🌷 Ramah Lingkungan
+Kami berkomitmen untuk menggunakan bahan yang ramah lingkungan dan proses produksi yang berkelanjutan. Dengan memilih Hijab Girl, Anda turut berkontribusi dalam menjaga kelestarian lingkungan.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### 💕 Dukungan untuk Perempuan
+Kami percaya bahwa hijab adalah simbol kekuatan dan kepercayaan diri. Oleh karena itu, kami mendukung perempuan dalam berkarya dan mengembangkan potensinya melalui berbagai program pemberdayaan.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 🌍 Investasi untuk Masa Depan
+Sebagian dari keuntungan kami disalurkan untuk mendukung pendidikan dan pelatihan bagi perempuan di berbagai komunitas. Dengan membeli produk kami, Anda ikut serta dalam membangun masa depan yang lebih baik bagi sesama.

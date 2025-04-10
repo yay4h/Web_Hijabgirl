@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="content">
                     <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
+                      <h1 className="title is-size-4">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
                       <p>{mainpitch.description}</p>
@@ -40,11 +40,11 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h3 className="has-text-weight-semibold is-size-4">
                         {heading}
                       </h3>
                       <p>{description}</p>
-                      <p>{subdescription}</p>
+                      <p> {subdescription}</p>
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
@@ -56,7 +56,7 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold is-size-3">
                       Latest stories
                     </h3>
                     <BlogRoll />
@@ -98,7 +98,7 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-       subheading={frontmatter.subheading}
+        
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         subdescription={frontmatter.subdescription}
@@ -129,7 +129,7 @@ export const pageQuery = graphql`
           }
         }
         heading
-        subheading
+        
         mainpitch {
           title
           description
@@ -140,7 +140,7 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+                gatsbyImageData(width: 192, quality: 64, layout: CONSTRAINED)
               }
             }
             text
@@ -151,4 +151,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+ ` ;
