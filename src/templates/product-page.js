@@ -209,11 +209,11 @@ export const productPageQuery = graphql`
 
         full_image {
           childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_IMAGE)
+            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
           }
         }
         pricing {
-          headin
+          heading
           description
           plans {
             description
