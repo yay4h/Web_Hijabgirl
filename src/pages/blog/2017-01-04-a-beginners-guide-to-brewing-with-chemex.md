@@ -21,11 +21,11 @@ Hijab bukan sekadar kain penutup kepala ia adalah perpaduan antara nilai, identi
 
 Berikut tiga hal penting yang sering terlewatkan saat mulai mengenakan hijab:
 
-Selalu pilih bahan yang sesuai dengan aktivitas. Katun untuk sehari-hari, sifon untuk tampilan anggun, dan jersey untuk kenyamanan maksimal.
+1. Selalu pilih bahan yang sesuai dengan aktivitas. Katun untuk sehari-hari, sifon untuk tampilan anggun, dan jersey untuk kenyamanan maksimal.
 
-Gunakan inner atau ciput. Ini membantu hijab tetap di tempat dan mencegah rambut keluar.
+2. Gunakan inner atau ciput. Ini membantu hijab tetap di tempat dan mencegah rambut keluar.
 
-Jangan lupa jarum pentul atau peniti. Selain menjaga bentuk, ini juga bikin tampilan lebih rapi dan tahan lama.
+3. Jangan lupa jarum pentul atau peniti. Selain menjaga bentuk, ini juga bikin tampilan lebih rapi dan   tahan lama.
 
 Ciri visual paling khas dari tren hijab saat ini adalah variasi gaya ikatannya dari yang simpel, hingga turban modern yang stylish. Gaya ini menonjolkan perpaduan antara budaya dan kreativitas, menghadirkan kesan elegan sekaligus dinamis.
 

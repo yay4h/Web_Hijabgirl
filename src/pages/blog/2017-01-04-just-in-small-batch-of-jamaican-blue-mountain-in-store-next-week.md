@@ -1,34 +1,34 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Baru Datang: Koleksi Terbatas “Nuansa Timur Tengah” Siap Hadir Minggu Depan'
+date: 2025-04-15T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Kami sangat senang mengumumkan bahwa minggu depan, Hijab Girl akan merilis koleksi hijab edisi terbatas bertema “Nuansa Timur Tengah” — terinspirasi dari kehangatan budaya, pesona warna alami, dan kemewahan tekstur khas kawasan tersebut. Koleksi ini akan tersedia dalam jumlah sangat terbatas, dengan pilihan bahan satin silk premium dan voile ringan yang cocok untuk segala suasana—mulai dari kegiatan harian hingga momen istimewa.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - 🗓 Pre-order mulai Senin depan
+  - 🛍 Pengiriman dimulai Selasa 
+  - ⚠️ Persediaan terbatas – siapa cepat, dia dapat!
+  - 🙌🏻 Stay tuned!
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Wilayah Timur Tengah dikenal dengan nuansa budayanya yang kuat dan gaya berbusana yang memukau. Dari gurun pasir Yordania hingga bazar kain di Istanbul, kami terinspirasi oleh keseimbangan antara keunikan tradisi dan sentuhan modern.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Setiap desain dalam koleksi ini menampilkan warna-warna hangat seperti kren pasir, cokelat karamel, dansentuhan emas lembut, dipadukan dengan motif-motif etnik yang 
+elegan namun tetap minimlis.
 
-## A little history
+## Kisah di Balik Koleksi ini
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Gadis berhijab sering dianggap sebagai simbol kekuatan dan keanggunan dalam kesederhanaan. Dengan balutan kain yang menutupi rambut dan lehernya, ia melangkah pasti di tengah dunia yang terus berubah. Hijab bukan hanya sekadar penutup, melainkan cerminan identitas dan prinsip hidup yang dijunjung tinggi. Banyak gadis berhijab menjalani aktivitas harian mereka—belajar, bekerja, hingga mendaki gunung—dengan penuh semangat dan percaya diri. Di balik senyumnya yang tenang, tersimpan tekad yang kuat dan keteguhan hati untuk terus melangkah, tanpa meninggalkan nilai-nilai yang ia yakini.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+>Beberapa karakter yang dimiliki oleh gadis berhijab tidak mudah ditemukan pada perempuan lainnya, dan sering kali justru tampak dalam bentuk yang sederhana namun bermakna. Keanggunan mereka bukan berasal dari kemewahan, melainkan dari sikap tenang, keteguhan hati, dan keyakinan yang terpancar dari dalam diri.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Hal ini sebagian besar disebabkan oleh prinsip hidup dan rasa malu yang tertanam kuat, yang membentuk sikap sederhana namun penuh makna. Komunitas gadis berhijab yang tumbuh di berbagai lingkungan, mulai dari sekolah hingga tempat kerja, sering kali menjadi contoh keteguhan dan keanggunan yang tidak mencolok, namun menginspirasi.
 
-## What you need to know before trying
+## Yang Perlu Kamu Tahu Sebelum Mengenal Gadis Berhijab
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Gadis berhijab bukan sekadar perempuan yang mengenakan penutup kepala, tapi merepresentasikan nilai, keyakinan, dan pilihan hidup yang kuat. Dalam kehidupan sehari-hari, banyak dari mereka dikenal karena kelembutan sikap dan keteguhan prinsip yang jarang terlihat secara mencolok, namun meninggalkan kesan mendalam. Dalam beberapa dekade terakhir, citra gadis berhijab mulai dikenal lebih luas dan diapresiasi sebagai simbol kekuatan yang dibalut dalam kesederhanaan.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Hijab sendiri sering kali menjadi bagian penting dari identitas mereka, yang tidak hanya digunakan untuk menutup aurat, tapi juga mencerminkan komitmen pada prinsip hidup yang diyakini. Seiring berkembangnya kesadaran global tentang keberagaman, perempuan berhijab mulai mendapatkan tempat yang lebih besar di dunia pendidikan, seni, sains, dan berbagai bidang lainnya.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Lingkungan tempat mereka tumbuh pun beragam, mulai dari kota-kota besar hingga pelosok daerah, dari komunitas modern hingga lingkungan pesantren. Namun di mana pun mereka berada, kombinasi antara pendidikan, karakter kuat, dan nilai spiritual menjadikan mereka sosok yang layak untuk dikenali lebih dekat.

@@ -1,33 +1,31 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Yang Perlu Kamu Tahu Sebelum Mengenal Gadis Berhijab
+date: 2025-04-16T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/hijabcream.png
+description: Gadis berhijab bukan sekadar perempuan yang mengenakan penutup kepala,tapi merepresentasikan nilai, keyakinan, dan pilihan hidup yang kuat. Dalam kehidupan sehari-hari, banyak dari mereka dikenal karena kelembutan sikap dan keteguhan prinsip yang jarang terlihat secara mencolok, namun meninggalkan kesan mendalam. Dalam beberapa dekade terakhir, citra gadis berhijab mulai dikenal lebih luas dan diapresiasi sebagai simbol kekuatan yang dibalut dalam kesederhanaan.
+
+
 tags:
-  - flavor
-  - tasting
+  - Karakter
+  - Mengunggah Rasa
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/hijabcream.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Hijab kini dipahami lebih luas, mencerminkan nuansa yang lebih halus dalam karakter dan nilai-nilai perempuan yang mengenakannya. Persepsi tentang hijab tidak lagi sekadar soal penampilan, tetapi tentang identitas, prinsip hidup, dan cara mereka mengekspresikan diri dengan anggun dan percaya diri.
+Meskipun perubahan ini mungkin terasa besar bagi masyarakat luas, ini juga berarti banyak bagi kamu sebagai individu yang ingin lebih memahami makna hijab di balik kainnya. Di sini kita akan menjelaskan bagaimana hijab dipahami dari waktu ke waktu, bagaimana perempuan berhijab menjalani kesehariannya, dan apa sebenarnya nilai-nilai yang mereka bawa.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Apa arti hijab hari ini untukmu?
+Hijab bukan hanya simbol penutup kepala, tetapi juga bagian dari sebuah perjalanan spiritual dan sosial. Di berbagai negara dan komunitas, perempuan berhijab hadir dalam beragam peran:
 
-## What the updates mean to you
+* pelajar dan pendidik
+* profesional dan wirausaha
+* seniman dan kreator
+* relawan dan aktivis
+* ibu rumah tangga dan pemimpin keluarga
+* atlet dan publik figur
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Selama puluhan tahun, perempuan berhijab terus membentuk komunitas yang aktif, cerdas, dan mandiri—berkontribusi dalam berbagai bidang kehidupan sambil tetap memegang teguh prinsipnya. Mereka menciptakan ruang yang aman dan penuh makna bagi sesama, serta menjadi inspirasi di tengah dunia yang terus berkembang.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Mengenal gadis berhijab adalah tentang memahami kekuatan dalam kesederhanaan, kelembutan dalam keteguhan, dan keindahan yang hadir dari dalam. Setiap hijab membawa cerita, dan setiap cerita mencerminkan karakter, semangat, serta harapan akan masa depan yang lebih inklusif dan penuh penghargaan terhadap keberagaman.

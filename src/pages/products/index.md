@@ -1,101 +1,81 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Hijab Girl
+title: Hijab Girl ✨
 image: /img/yuhu.jpg
 heading: Hijab yang Memancarkan Kepercayaan Diri
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Hijab Girl adalah pilihan terbaik bagi wanita yang ingin tampil elegan dan percaya diri dengan hijab berkualitas. Kami menghadirkan koleksi hijab modern yang nyaman, stylish, dan sesuai dengan berbagai gaya. Dengan bahan terbaik dan desain yang inovatif, kami memastikan setiap hijab yang kami tawarkan mencerminkan keindahan dan keanggunan.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/motif.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menyediakan hijab dengan berbagai bahan berkualitas seperti voal, satin, dan pashmina. Setiap produk dirancang untuk memberikan kenyamanan maksimal dan tampilan yang anggun dalam berbagai kesempatan.
+    - image: /img/hijabbbb.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Dapatkan berbagai pilihan warna dan motif hijab yang sesuai dengan gaya dan kebutuhan Anda. Hijab Girl menghadirkan desain eksklusif yang elegan dan modern.
+    - image: /img/hij.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Kami percaya bahwa hijab adalah simbol kekuatan dan kepercayaan diri. Oleh karena itu, kami mendukung perempuan dalam berkarya dan mengembangkan potensinya melalui berbagai program pemberdayaan.
+    - image: /img/pink.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Sebagian dari keuntungan kami disalurkan untuk mendukung pendidikan dan pelatihan bagi perempuan di berbagai komunitas. Dengan membeli produk kami, Anda ikut serta dalam membangun masa depan yang lebih baik bagi sesama.
+  heading: Hijab Berkualitas dengan Desain Eksklusif
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+     Kami menggunakan bahan berkualitas tinggi yang lembut, ringan, dan mudah dibentuk. Dengan berbagai pilihan warna dan desain, hijab kami cocok untuk berbagai kesempatan, mulai dari santai hingga formal.
 main:
-  heading: Great coffee with no compromises
+  heading: Hijab terbaik tanpa kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami percaya bahwa hijab bukan hanya soal penampilan, tapi juga tentang kenyamanan, kualitas dan makna. Karena itu, kami sangat teliti dan transparan dalam setiap langkah proses pembuatan hijab kami.
+    Kami memilih bahan terbaik dari sumber terpercaya, memastikan setiap helai kain nyaman di kulit, tahan lama, dan ramah lingkungan. Kami juga bekerja langsung dengan para pengrajin lokal untuk menjamin proses produksi yang adil dan memberdayakan.
+    Bagi kami hijab bukan sekadar produk ia adalah simbol kepercayaan diri, keanggunan, dan komitmen terhadap nilai-nilai. Tanpa kompromi.
+    
+    
+    
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/mot.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/tif.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/den.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Fatimah Az-zahra
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Hijab girl adalah pilihan tepat bagi mereka yang ingin mengekspresikann keindahan dalam kesederhanaan. Aku menyukai bagaimana hijab mencerminkan kepercayaan diri, kesopanan, dan kekuatan seorang wanita.
+      
+  - author: Aisyah Ramadhani
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Hijab Girl adalah pilihan utama kalau kamu mencari hijab berkualitas dan penuh makna. Aku suka bagaimana mereka mengangkat kepercayaan diri perempuan dan tetap menjaga nilai-nilai dalam setiap desainnya.
+full_image: /img/tas.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Langganan Bulanan
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kami ingin membuat hijab yang nyaman dan stylish jadi bagian keseharianmu
+    Pilih salah satu paket langganan bulanan kami dan dapatkan hijab faforitmu langsung kerumah setiap bulan.
+    Hubungi kami untuk detail lebih lanjut dan info pembayaran.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description:  'Cocok untuk kamu yang suka tampil simple dan rapi setiap hari'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - 2 hijab pilihan perbulan
+        - Bahan katun, voile, atau jersey"
+        - Warna netral atau pastel"
+      plan: Mini
+      price: 'Rp150.000 / bulan'
+    - description: 'Pas untuk kamu yang suka gaya baru dan tampil stylish!'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 4 hijab per bulan
+        - Beragam bahan premium (sifon, silk, katun)
+        - Motif dan warna beragam
+      plan: Midi
+      price: 'Rp250.000 / bulan'
+    - description: Pnya selera unik? Ingin batch kecil dengan pilihan spesial? Paket ini untuk kamu.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Jumlah dan bahan sesuai permintaan
+        - Bisa mix warna, motif, dan bahan 
+        - Bebas atur sendiri
       plan: Custom
       price: '??'
 ---
