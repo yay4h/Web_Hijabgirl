@@ -7,7 +7,7 @@ description: "Hijab Girl menghadirkan hijab berkualitas dengan desain modern dan
 Hijab bukan hanya sekadar penutup kepala, tetapi juga simbol identitas, kepercayaan, dan gaya hidup. Dengan desain yang elegan dan modern, Hijab Girl menghadirkan koleksi hijab yang nyaman dan stylish untuk segala aktivitas.
 
 ### Beragam Pilihan
-Kami menyediakan berbagai pilihan hijab dari bahan berkualitas tinggi, mulai dari voal, satin, hingga pashmina. Setiap produk dirancang untuk memberikan kenyamanan maksimal dan tampilan yang anggun dalam berbagai kesempatan.
+Kami menyediakan berbagai pilihan hijab dari bahan berkualitas tinggi, mulai dari voal, satin, hingga pashmina. Setiap produk dirancang untuk memberikan kenyamanan maksimal dan tampilan yang anggun dalam berbagai kesempatann.
 
 ### 🌷 Ramah Lingkungan
 Kami berkomitmen untuk menggunakan bahan yang ramah lingkungan dan proses produksi yang berkelanjutan. Dengan memilih Hijab Girl, Anda turut berkontribusi dalam menjaga kelestarian lingkungan.
