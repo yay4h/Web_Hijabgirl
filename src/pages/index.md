@@ -7,7 +7,7 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Assalamualaikum, Sahabat HIJAB GIRL 
   description: >
-   Hijab sifon terbuat dari kain sifon berkualitas tinggi, ringan dan sejuk yang akan melengkapi busana kasual dan busana malam Anda dengan sempurna. Kain sifon sedikit transparan dan memiliki hasil akhir matte. Hijab sifon mudah dirawat dan anti kusut.
+   Hijab sifon terbuat dari kain sifon berkualitas tinggi, ringan dan sejuk yang akan melengkapi busana kasual dan busana malam Anda dengan sempurna. Kain sifon sedikit transparan dan memiliki hasil akhir matte. Hijab sifon mudah dirawat dan anti kusutt.
     
 description: >-
   ✨ "Hijab Cantik, Percaya Diri Meningkat" 
