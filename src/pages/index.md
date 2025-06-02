@@ -17,13 +17,9 @@ description: >-
   Hijab ini didesain ringan dan breathable, memastikan kamu tetap segar dan percaya diri 
   sepanjang hari. Dari acara formal hingga santai, koleksi kami hadir untuk menemani setiap langkahmu.
 subdescription: 
-  ✨ "Hijab Cantik, Percaya Diri Meningkat" 
-  Pilihan terbaik untuk tampil elegan setiap hari.
-  Hijab yang Menyatu dengan Gaya Hidup Aktif
-  Aktivitas seharian bukan lagi hambatan untuk tetap tampil stylish. 
-  Hijab ini didesain ringan dan breathable, memastikan kamu tetap segar dan percaya diri 
-  sepanjang hari. Dari acara formal hingga santai, koleksi kami hadir untuk menemani setiap langkahmu.
-
+  🌸 “Hijab Stylish, Percaya Diri Maksimal”
+  Tampil elegan dan aktif setiap hari jadi lebih mudah!
+  Didesain khusus untuk gaya hidup dinamis, hijab ini ringan, adem, dan nyaman dipakai seharian. Dari meeting penting sampai hangout santai—koleksi kami siap menemani setiap momenmu dengan penuh gaya.
 intro:
   blurbs:
     - image: /img/modelhijab1o.jpg
