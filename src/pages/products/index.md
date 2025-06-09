@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Hijab Girl ✨
+title: Hijab Girl 
 image: /img/yuhu.jpg
 heading: Hijab yang Memancarkan Kepercayaan Diri
 description: >-
