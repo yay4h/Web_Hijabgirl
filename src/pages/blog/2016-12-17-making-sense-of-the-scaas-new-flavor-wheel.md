@@ -8,8 +8,11 @@ description: Gadis berhijab bukan sekadar perempuan yang mengenakan penutup kepa
 
 
 tags:
-  - Karakter
-  - Mengunggah Rasa
+  - HijabGirl
+  - HijabStyleIndonesia
+  - HijabRajeg
+  - HijabTangerang
+  - MuslimahIndonesia
 ---
 ![flavor wheel](/img/hijabcream.png)
 
