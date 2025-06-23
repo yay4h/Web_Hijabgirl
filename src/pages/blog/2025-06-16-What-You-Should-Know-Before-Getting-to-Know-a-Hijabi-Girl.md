@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Yang Perlu Kamu Tahu Sebelum Mengenal Gadis Berhijab
 date: 2025-04-16T15:04:10.000Z
 featuredpost: false

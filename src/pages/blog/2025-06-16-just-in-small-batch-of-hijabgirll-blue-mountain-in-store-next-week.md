@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path: /blog
 title: 'Baru Datang: Koleksi Terbatas “Nuansa Timur Tengah” Siap Hadir Minggu Depan'
 date: 2025-04-15T15:04:10.000Z
 featuredpost: true
