@@ -5,7 +5,12 @@ title: Panduan pemula untuk menata hijab
 date: 2025-04-14T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/tutorhijab.jpg
-description: Memakai hijab mungkin terasa rumit di awal, apalagi dengan banyaknya pilihan gaya dan bahan . Tapi begitu kamu menemukan gaya yang nyaman dan cocok, hijab akan menjadi bagian indah dari ekspresi diri yang membuatmu merasa percaya diri setiap hari.
+description: Memakai hijab mungkin terasa rumit di awal, apalagi dengan banyaknya pilihan gaya dan bahan . Tapi begitu kamu menemukan gaya yang nyaman dan cocok, hijab akan menjadi bagian indah dari ekspresi diri yang membuatmu merasa percaya diri setiap hari. Memakai hijab mungkin terasa rumit di awal, terutama dengan banyaknya pilihan gaya, warna, dan bahan yang tersedia. Tapi bagi banyak hijab girl di Rajeg, Tangerang, perjalanan menemukan gaya hijab yang nyaman dan cocok adalah bagian dari proses mencintai diri sendiri dan mengekspresikan identitas sebagai muslimah muda.
+
+ Di tengah perkembangan fashion yang terus berubah, para hijabers di Rajeg terus menunjukkan bahwa tampil tertutup tidak menghalangi untuk tetap modis dan percaya diri. Mulai dari gaya hijab casual untuk ke kampus, gaya formal untuk acara keluarga, hingga OOTD hijab yang cocok untuk nongkrong bersama teman di kafe sekitar Rajeg – semuanya bisa dipadukan dengan sempurna oleh generasi hijab girl Tangerang ini.
+
+ Banyak hijab girl di daerah Rajeg memilih bahan yang ringan dan adem seperti voal, cotton, atau jersey untuk menghadapi cuaca tropis. Mereka juga pintar memadukan warna pastel atau earth tone dengan outfit yang tetap stylish tapi tetap sesuai syariat. Tak jarang, gaya mereka menjadi inspirasi di media sosial seperti Instagram atau TikTok, menggunakan hashtag seperti  #HijabGirlRajeg, #TangerangStyle, atau #OOTDHijabRemaja.
+     
 tags:
   - brewing
   - chemex
